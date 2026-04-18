@@ -1,0 +1,6 @@
+peft==0.18.1
+open_clip_torch==3.3.0
+torch==2.6.0
+torchvision==0.21.0
+matplotlib==3.10.8
+rich==14.3.3
