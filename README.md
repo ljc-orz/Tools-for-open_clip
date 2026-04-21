@@ -8,7 +8,7 @@
 
 ## Usage
 
-本工具集已在`open_clip_torch==3.3.0`和`torch==2.6.0`验证正确性。
+本工具集已在`open_clip_torch==3.3.0`、`transformers==5.4.0`和`torch==2.6.0`环境下验证正确性。
 
 ```bash
 pip install -r requirements.txt
